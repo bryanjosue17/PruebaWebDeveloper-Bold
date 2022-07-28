@@ -339,6 +339,9 @@ const Body = () => {
           <img src={Parma} style={{ height: 200, width: 200 }} alt="Parma"></img>
         </Grid>
         <Grid item xs={12} sm={4} md={3}>
+          <img src={ByB} style={{ height: 200, width: 200 }} alt="ByB"></img>
+        </Grid>
+        <Grid item xs={12} sm={4} md={3}>
           <img src={Popsis} style={{ height: 200, width: 200 }} alt="Popsis"></img>
         </Grid>
         <Grid item xs={12} sm={4} md={3}>
